@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    height: auto;
+    width: 100%;
+}
+.title1{
+    display: inline-block;
+    width: auto;
+    height: 26px;
+}
+.logotuoitre{
+    width: 80px;
+    height: 26px;
+    padding-right: 5px;
+}
+.title1r li a{
+    text-decoration: none;
+    color: black;
+    font-size: 13px; 
+}
+.title1r li{
+    display: inline-block;
+    list-style: none;
+    padding-left: 15px;
+    align-items: center;
+}
+.title1r{
+    vertical-align: top;
+    display: inline-block;
+    width: 400px;
+    height: 26px;  
+    margin-left: 150px; 
+    margin-top: 5px;
+}
+.title1l{
+    display: inline-block;
+    width: 400px;
+    height: 26px;
+    margin-left: 170px;
+}
+.title2{
+    height: 47px;
+    width: 100%;
+    background-image:  linear-gradient(to left,#9f041b,#e32);
+    display: inline-block;
+}
+.title2l{
+    height: 47px;
+    width: 300px;
+    display: inline-block;
+}
+.title2l img{
+    width: 100px;
+    height: 47px;
+    margin-left: 170px;
+}
+.title2r{
+    height: 47px;
+    width: 800px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 7px;
+    margin-left: 190px;
+}
+.title2r li{
+    font-size: 10px;
+    display: inline-block;
+    color: #fff;
+    padding-right:10px ;   
+}
+.title2r li a{
+    text-decoration: none;
+    color: #fff;
+}
+.title2r input{
+    display: inline-block;
+    width: 240px;
+    height: 28px;
+    margin-left: 20px; 
+}
+.body{
+    height: 1550px;
+    margin: 0 auto;
+    width: 1000px;
+    background-color: aquamarine;
+}
