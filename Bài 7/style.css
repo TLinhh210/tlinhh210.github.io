@@ -75,6 +75,7 @@ img{
     color: aliceblue;
     border-radius: 10px;
     transition: 0.5s;
+    text-decoration: none;
 }
 
 .card button:hover{
